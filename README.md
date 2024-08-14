@@ -5,7 +5,8 @@
 </p>
 
 ## Status
-Finished: 30/06/2024.
+Started: 30/06/2024.
+Finished: 03/07/2024.
 
 Grade: 90%.
 
