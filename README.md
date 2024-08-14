@@ -23,7 +23,7 @@ The most interesting part of any project is the research that goes behind it. If
 ---
 
 [Github Born2beroot Debian guide](https://github.com/mcombeau/Born2beroot/tree/main/guide):
-* [Full Guide](https://github.com/ayoub0x1/born2beroot)
+* [Full Guide by ayoub0x1](https://github.com/ayoub0x1/born2beroot)
 
 
 ---
