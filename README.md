@@ -11,6 +11,10 @@ Finished: 03/07/2024.
 
 Grade: 90%.
 
+## Project Idea
+This project aims to introduce you to the wonderful world of virtualization.
+
+
 ## Pre-requisites
 * [Oracle VirtualBox](https://www.virtualbox.org/) (6.1 at the time of this writing).
 * [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/) (11.2.0 at the time of this writing).
