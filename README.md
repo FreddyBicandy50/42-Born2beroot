@@ -1,7 +1,7 @@
 # Born2beroot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FreddyBicandy50/42draft/main/42_badges/born2beroote.png" alt="Born2beroot 42 project badge"/>
+  <img src="https://github.com/FreddyBicandy50/Born2beroot/blob/main/born2beroote.png" alt="Born2beroot 42 project badge"/>
 </p>
 
 ## Status
